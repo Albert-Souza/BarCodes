@@ -8,7 +8,7 @@ A software that generates and reads barcodes.
 To run the program, it is necessary to have the JDK installed.  
 
 1\. Open a terminal in the `src` directory.  
-2\. Use the command: `java MainFrame`.  
+2\. Use the command: `java BarCodes`.  
 
 ## Usage
   
