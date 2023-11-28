@@ -5,7 +5,7 @@ A software that generates and reads barcodes.
 ---  
 ## Execution
   
-To run the program, it is necessary to have the JDK installed.  
+To run the program, it is necessary to have JRE(Java Runtime Environment) installed.  
 
 1\. Open a terminal in the `src` directory.  
 2\. Use the command: `java BarCodes`.  
