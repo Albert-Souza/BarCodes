@@ -13,5 +13,5 @@ To run the program, it is necessary to have JRE(Java Runtime Environment) instal
 ## Usage
   
 Click the `Generate Bar Code` button to generate a code.  
-Click `Save` to save the code to the BarCodes directory.  
+Click `Save` to save the code to the Bars directory.  
 Click the `Read Bar Code` button to open a saved code on your computer.  
